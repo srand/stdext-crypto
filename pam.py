@@ -15,4 +15,3 @@ stdext_crypto_test = cxx_executable(
     dependencies = [googletest, stdext_crypto],
     features = ["language-c++11"]
 )
-
