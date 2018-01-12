@@ -1,6 +1,6 @@
-===========
-stdext-path
-===========
+=============
+stdext-crypto
+=============
 Cryptographic utilities in C++
 
 Usage
